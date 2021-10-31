@@ -1,24 +1,45 @@
 ```java
+package serbuitrago;
+
 public class SerBuitrago {
      private String [] languages = {'Java', 'JavaScript', 'PHP'};
      private String [] frameworksTechnologies = {'Spring Boot', 'JSF', 'Laravel', 'PHP'};
      private String [] databases = {'MySQL', 'MongoDB'};
-     private String [] others = {'MySQL', 'MongoDB'};
+     private String [] others = {'Postman', 'Git', 'GitHub'};
+     
+     public SerBuitrago(){
+     }
      
      private String getLanguages(){
          return this.languages;
+     }
+     
+     private String setLanguages(String languages){
+         return this.languages = languages;
      }
      
      private String getFrameworksTechnologies(){
          return this.frameworksTechnologies;
      }
      
+     private String setFrameworksTechnologies(String frameworksTechnologies){
+         return this.frameworksTechnologies = frameworksTechnologies;
+     }
+     
      private String getDatabases(){
          return this.databases;
      }
      
+     private String getDatabases(String databases){
+         return this.databases = databases;
+     }
+     
      private String getOthers(){
          return this.others;
+     }
+     
+     private String setOthers(String others){
+         return this.others = others;
      }
 }
 ```
