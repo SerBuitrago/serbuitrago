@@ -4,7 +4,7 @@ package serbuitrago;
 public class SerBuitrago {
      private String description;
      private String [] languages = {'Java', 'JavaScript', 'PHP'};
-     private String [] frameworksTechnologies = {'Spring Boot', 'JSF', 'Laravel', 'React'};
+     private String [] frameworksTechnologies = {'Spring Boot', 'JSF', 'Laravel', 'React', 'NodeJS', 'TypeScript'};
      private String [] databases = {'MySQL', 'MongoDB'};
      private String [] others = {'Postman', 'Git', 'GitHub'};
      
