@@ -16,43 +16,43 @@ public class SerBuitrago {
          this.description = "I’m a Full stack developer. I am passionate about Web Dev & I enjoy learning new things.";
      }
      
-     private String getDescription(){
+     public String getDescription(){
          return this.description;
      }
      
-     private String setDescription(String description){
+     public String setDescription(String description){
          return this.description = description;
      }
      
-     private String getLanguages(){
+     public String getLanguages(){
          return this.languages;
      }
      
-     private String setLanguages(String languages){
+     public String setLanguages(String languages){
          return this.languages = languages;
      }
      
-     private String getFrameworksTechnologies(){
+     public String getFrameworksTechnologies(){
          return this.frameworksTechnologies;
      }
      
-     private String setFrameworksTechnologies(String frameworksTechnologies){
+     public String setFrameworksTechnologies(String frameworksTechnologies){
          return this.frameworksTechnologies = frameworksTechnologies;
      }
      
-     private String getDatabases(){
+     public String getDatabases(){
          return this.databases;
      }
      
-     private String getDatabases(String databases){
+     public String getDatabases(String databases){
          return this.databases = databases;
      }
      
-     private String getOthers(){
+     public String getOthers(){
          return this.others;
      }
      
-     private String setOthers(String others){
+     public String setOthers(String others){
          return this.others = others;
      }
 }
