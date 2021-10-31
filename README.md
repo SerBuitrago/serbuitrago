@@ -1,6 +1,25 @@
 ```java
-public class SerBuitrago{
+public class SerBuitrago {
      private String [] languages = {'Java', 'JavaScript', 'PHP'};
+     private String [] frameworksTechnologies = {'Spring Boot', 'JSF', 'Laravel', 'PHP'};
+     private String [] databases = {'MySQL', 'MongoDB'};
+     private String [] others = {'MySQL', 'MongoDB'};
+     
+     private String getLanguages(){
+         return this.languages;
+     }
+     
+     private String getFrameworksTechnologies(){
+         return this.frameworksTechnologies;
+     }
+     
+     private String getDatabases(){
+         return this.databases;
+     }
+     
+     private String getOthers(){
+         return this.others;
+     }
 }
 ```
 
