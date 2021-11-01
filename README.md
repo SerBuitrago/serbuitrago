@@ -61,7 +61,7 @@ public class SerBuitrago {
    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=serbuitrago&show_icons=true&locale=en&count_private=true&theme=dark"></a>
  </p>
  <p align='center'>
-   <a href="https://github.com/serbuitrago"><img src="https://github-readme-stats.vercel.app/api/top-langs/?exclude_repo=notebook&username=serbuitrago&show_icons=true&langs_count=8&theme=dark"></a>
+   <a href="https://github.com/serbuitrago"><img src="https://github-readme-stats.vercel.app/api/top-langs/?exclude_repo=notebook&username=serbuitrago&show_icons=true&langs_count=8&theme=dark&layout=compact"></a>
  </p>
 
 <p align='center'>
