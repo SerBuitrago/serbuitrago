@@ -7,10 +7,10 @@ package com.serbuitrago;
 
 public class SerBuitrago {
      public static final String description = "I’m a Full stack developer. I am passionate about Web Dev & I enjoy learning new things.";
-     public static final String [] languages = {'Java', 'JavaScript', 'PHP'};
-     public static final String [] frameworksTechnologies = {'Spring Boot', 'JSF', 'Laravel', 'React', 'NodeJS', 'TypeScript'};
-     public static final String [] databases = {'MySQL', 'MongoDB'};
-     public static final String [] others = {'Postman', 'Git', 'GitHub'};   
+     public static final String [] languages = {"Java", "JavaScript", "PHP"};
+     public static final String [] frameworksTechnologies = {"Spring Boot", "JSF', "Laravel", "React", "NodeJS", "TypeScript"};
+     public static final String [] databases = {"MySQL", "MongoDB"};
+     public static final String [] others = {"Postman", "Git", "GitHub"};   
 }
 ```
 <p align='center'>
