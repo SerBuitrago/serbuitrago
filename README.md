@@ -3,58 +3,14 @@
 </h1>
 
 ```java
-package serbuitrago;
+package com.serbuitrago;
 
 public class SerBuitrago {
-     private String description;
-     private String [] languages = {'Java', 'JavaScript', 'PHP'};
-     private String [] frameworksTechnologies = {'Spring Boot', 'JSF', 'Laravel', 'React', 'NodeJS', 'TypeScript'};
-     private String [] databases = {'MySQL', 'MongoDB'};
-     private String [] others = {'Postman', 'Git', 'GitHub'};
-     
-     public SerBuitrago(){
-         this.description = "I’m a Full stack developer. I am passionate about Web Dev & I enjoy learning new things.";
-     }
-     
-     public String getDescription(){
-         return this.description;
-     }
-     
-     public String setDescription(String description){
-         return this.description = description;
-     }
-     
-     public String getLanguages(){
-         return this.languages;
-     }
-     
-     public String setLanguages(String languages){
-         return this.languages = languages;
-     }
-     
-     public String getFrameworksTechnologies(){
-         return this.frameworksTechnologies;
-     }
-     
-     public String setFrameworksTechnologies(String frameworksTechnologies){
-         return this.frameworksTechnologies = frameworksTechnologies;
-     }
-     
-     public String getDatabases(){
-         return this.databases;
-     }
-     
-     public String getDatabases(String databases){
-         return this.databases = databases;
-     }
-     
-     public String getOthers(){
-         return this.others;
-     }
-     
-     public String setOthers(String others){
-         return this.others = others;
-     }
+     public static final String description = "I’m a Full stack developer. I am passionate about Web Dev & I enjoy learning new things.";
+     public static final String [] languages = {'Java', 'JavaScript', 'PHP'};
+     public static final String [] frameworksTechnologies = {'Spring Boot', 'JSF', 'Laravel', 'React', 'NodeJS', 'TypeScript'};
+     public static final String [] databases = {'MySQL', 'MongoDB'};
+     public static final String [] others = {'Postman', 'Git', 'GitHub'};   
 }
 ```
 <p align='center'>
