@@ -21,7 +21,7 @@ public class SerBuitrago {
  </p>
  
 <p align='center'>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=serbuitrago&" title="serbuitrago" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=serbuitrago&theme=dark" title="serbuitrago" />
 </p>
 
 <p align='center'>
