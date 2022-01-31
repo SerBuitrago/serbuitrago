@@ -19,6 +19,10 @@ public class SerBuitrago {
  <p align='center'>
    <a href="https://github.com/serbuitrago"><img src="https://github-readme-stats.vercel.app/api/top-langs/?exclude_repo=notebook&username=serbuitrago&show_icons=true&langs_count=8&theme=dark&layout=compact"></a>
  </p>
+ 
+<p align='center'>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=serbuitrago&" title="serbuitrago" />
+</p>
 
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/serbuitrago/notebook"></a>
