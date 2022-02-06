@@ -10,6 +10,7 @@ public class SerBuitrago {
      public static final String [] languages = {"Java", "JavaScript", "PHP"};
      public static final String [] frameworksTechnologies = {"Spring Boot", "Spring Cloud" "Webflux", "JSF", "Laravel", "React", "NodeJS", "TypeScript"};
      public static final String [] databases = {"MySQL", "MongoDB", "DynamoDB"};
+     public static final String [] testing = {"JUnit", "Mockito"};
      public static final String [] others = {"Postman", "Git", "GitHub"};   
 }
 ```
